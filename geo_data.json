@@ -1,0 +1,5208 @@
+[
+  {
+    "place": "1",
+    "code": "Four States",
+    "country": "26572",
+    "admin1": "United States",
+    "admin2": "West Virginia",
+    "admin3": "Marion",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   39.48/-80.31"
+  },
+  {
+    "place": "2",
+    "code": "Myersville",
+    "country": "21773",
+    "admin1": "United States",
+    "admin2": "Maryland",
+    "admin3": "Frederick",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   39.528/-77.551"
+  },
+  {
+    "place": "3",
+    "code": "Fairfax",
+    "country": "22033",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Fairfax",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.878/-77.388"
+  },
+  {
+    "place": "4",
+    "code": "Alexandria",
+    "country": "22303",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Fairfax",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.791/-77.081"
+  },
+  {
+    "place": "5",
+    "code": "Alexandria",
+    "country": "22306",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Fairfax",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.759/-77.087"
+  },
+  {
+    "place": "6",
+    "code": "Alexandria",
+    "country": "22310",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Fairfax",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.779/-77.119"
+  },
+  {
+    "place": "7",
+    "code": "Alexandria",
+    "country": "22312",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Fairfax",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.819/-77.148"
+  },
+  {
+    "place": "8",
+    "code": "Williamsburg",
+    "country": "23185",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "James City",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   37.273/-76.732"
+  },
+  {
+    "place": "9",
+    "code": "Richmond",
+    "country": "23230",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Henrico",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   37.592/-77.495"
+  },
+  {
+    "place": "10",
+    "code": "Henrico",
+    "country": "23233",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Henrico",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   37.464/-77.398"
+  },
+  {
+    "place": "11",
+    "code": "Scottdale",
+    "country": "30079",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.793/-84.259"
+  },
+  {
+    "place": "12",
+    "code": "Conley",
+    "country": "30288",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "Clayton",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.637/-84.337"
+  },
+  {
+    "place": "13",
+    "code": "Ellenwood",
+    "country": "30294",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "Clayton",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.617/-84.294"
+  },
+  {
+    "place": "14",
+    "code": "Atlanta",
+    "country": "30319",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.869/-84.335"
+  },
+  {
+    "place": "15",
+    "code": "Atlanta",
+    "country": "30329",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.824/-84.321"
+  },
+  {
+    "place": "16",
+    "code": "Atlanta",
+    "country": "30341",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.888/-84.29"
+  },
+  {
+    "place": "17",
+    "code": "Atlanta",
+    "country": "30345",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.851/-84.287"
+  },
+  {
+    "place": "18",
+    "code": "Atlanta",
+    "country": "30346",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.927/-84.333"
+  },
+  {
+    "place": "19",
+    "code": "Yulee",
+    "country": "32041",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Nassau",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   30.623/-81.59"
+  },
+  {
+    "place": "20",
+    "code": "Edgewater",
+    "country": "32132",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Volusia",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.982/-80.91"
+  },
+  {
+    "place": "21",
+    "code": "Cypress",
+    "country": "32432",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Jackson",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   30.716/-85.078"
+  },
+  {
+    "place": "22",
+    "code": "Alachua",
+    "country": "32615",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Alachua",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.813/-82.472"
+  },
+  {
+    "place": "23",
+    "code": "Chiefland",
+    "country": "32626",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Levy",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.483/-82.881"
+  },
+  {
+    "place": "24",
+    "code": "Melrose",
+    "country": "32666",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Putnam",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.732/-82.028"
+  },
+  {
+    "place": "25",
+    "code": "Mims",
+    "country": "32754",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Brevard",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.697/-80.866"
+  },
+  {
+    "place": "26",
+    "code": "Sanford",
+    "country": "32771",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Seminole",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.801/-81.285"
+  },
+  {
+    "place": "27",
+    "code": "Lutz",
+    "country": "33548",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.139/-82.482"
+  },
+  {
+    "place": "28",
+    "code": "Lutz",
+    "country": "33549",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.137/-82.461"
+  },
+  {
+    "place": "29",
+    "code": "Odessa",
+    "country": "33556",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.142/-82.591"
+  },
+  {
+    "place": "30",
+    "code": "Seffner",
+    "country": "33583",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   27.872/-82.439"
+  },
+  {
+    "place": "31",
+    "code": "Valrico",
+    "country": "33594",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   27.941/-82.242"
+  },
+  {
+    "place": "32",
+    "code": "Wimauma",
+    "country": "33598",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   27.701/-82.315"
+  },
+  {
+    "place": "33",
+    "code": "Captiva",
+    "country": "33924",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Lee",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   26.521/-82.18"
+  },
+  {
+    "place": "34",
+    "code": "Placida",
+    "country": "33946",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Charlotte",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   26.832/-82.265"
+  },
+  {
+    "place": "35",
+    "code": "Laurel",
+    "country": "34272",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Sarasota",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   27.147/-82.426"
+  },
+  {
+    "place": "36",
+    "code": "Nokomis",
+    "country": "34274",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Sarasota",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   27.144/-82.464"
+  },
+  {
+    "place": "37",
+    "code": "Dunnellon",
+    "country": "34430",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Marion",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.049/-82.461"
+  },
+  {
+    "place": "38",
+    "code": "Dunnellon",
+    "country": "34431",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Marion",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.139/-82.533"
+  },
+  {
+    "place": "39",
+    "code": "Dunnellon",
+    "country": "34432",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Marion",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.102/-82.341"
+  },
+  {
+    "place": "40",
+    "code": "Dunnellon",
+    "country": "34433",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.995/-82.52"
+  },
+  {
+    "place": "41",
+    "code": "Hernando",
+    "country": "34442",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.922/-82.39"
+  },
+  {
+    "place": "42",
+    "code": "Homosassa",
+    "country": "34446",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.751/-82.514"
+  },
+  {
+    "place": "43",
+    "code": "Homosassa",
+    "country": "34448",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.788/-82.568"
+  },
+  {
+    "place": "44",
+    "code": "Lecanto",
+    "country": "34460",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.859/-82.509"
+  },
+  {
+    "place": "45",
+    "code": "Homosassa",
+    "country": "34487",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.781/-82.615"
+  },
+  {
+    "place": "46",
+    "code": "Summerfield",
+    "country": "34491",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Marion",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.011/-82.032"
+  },
+  {
+    "place": "47",
+    "code": "Hudson",
+    "country": "34667",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Pasco",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.365/-82.676"
+  },
+  {
+    "place": "48",
+    "code": "Holiday",
+    "country": "34690",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Pasco",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.191/-82.728"
+  },
+  {
+    "place": "49",
+    "code": "Hebron",
+    "country": "43025",
+    "admin1": "United States",
+    "admin2": "Ohio",
+    "admin3": "Licking",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   39.953/-82.492"
+  },
+  {
+    "place": "50",
+    "code": "Lebanon",
+    "country": "46052",
+    "admin1": "United States",
+    "admin2": "Indiana",
+    "admin3": "Boone",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.045/-86.464"
+  },
+  {
+    "place": "51",
+    "code": "Belleville",
+    "country": "48111",
+    "admin1": "United States",
+    "admin2": "Michigan",
+    "admin3": "Wayne",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.195/-83.485"
+  },
+  {
+    "place": "52",
+    "code": "Germantown",
+    "country": "53022",
+    "admin1": "United States",
+    "admin2": "Wisconsin",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.219/-88.117"
+  },
+  {
+    "place": "53",
+    "code": "Itasca",
+    "country": "60143",
+    "admin1": "United States",
+    "admin2": "Illinois",
+    "admin3": "DuPage",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.972/-88.02"
+  },
+  {
+    "place": "54",
+    "code": "Hinsdale",
+    "country": "60521",
+    "admin1": "United States",
+    "admin2": "Illinois",
+    "admin3": "DuPage",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.8/-87.929"
+  },
+  {
+    "place": "55",
+    "code": "Willowbrook",
+    "country": "60527",
+    "admin1": "United States",
+    "admin2": "Illinois",
+    "admin3": "DuPage",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.745/-87.933"
+  },
+  {
+    "place": "56",
+    "code": "Paris",
+    "country": "75462",
+    "admin1": "United States",
+    "admin2": "Texas",
+    "admin3": "Lamar",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.68/-95.491"
+  },
+  {
+    "place": "57",
+    "code": "Gardnerville",
+    "country": "89410",
+    "admin1": "United States",
+    "admin2": "Nevada",
+    "admin3": "Douglas",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.87/-119.611"
+  },
+  {
+    "place": "58",
+    "code": "Chatsworth",
+    "country": "91311",
+    "admin1": "United States",
+    "admin2": "California",
+    "admin3": "Los Angeles",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   34.258/-118.591"
+  },
+  {
+    "place": "59",
+    "code": "Kihei",
+    "country": "96753",
+    "admin1": "United States",
+    "admin2": "Hawaii",
+    "admin3": "Maui",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   20.744/-156.448"
+  },
+  {
+    "place": "60",
+    "code": "Mount Vernon",
+    "country": "36560",
+    "admin1": "United States",
+    "admin2": "Alabama",
+    "admin3": "Mobile",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   31.097/-88.035"
+  },
+  {
+    "place": "61",
+    "code": "Holtsville",
+    "country": "00501",
+    "admin1": "United States",
+    "admin2": "New York",
+    "admin3": "Suffolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.815/-73.045"
+  },
+  {
+    "place": "62",
+    "code": "Holtsville",
+    "country": "00544",
+    "admin1": "United States",
+    "admin2": "New York",
+    "admin3": "Suffolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.815/-73.045"
+  },
+  {
+    "place": "63",
+    "code": "Gilbertville",
+    "country": "01031",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.332/-72.199"
+  },
+  {
+    "place": "64",
+    "code": "Goshen",
+    "country": "01032",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.44/-72.8"
+  },
+  {
+    "place": "65",
+    "code": "Haydenville",
+    "country": "01039",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.382/-72.703"
+  },
+  {
+    "place": "66",
+    "code": "Florence",
+    "country": "01062",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.322/-72.693"
+  },
+  {
+    "place": "67",
+    "code": "North Hatfield",
+    "country": "01066",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.411/-72.622"
+  },
+  {
+    "place": "68",
+    "code": "Plainfield",
+    "country": "01070",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.514/-72.918"
+  },
+  {
+    "place": "69",
+    "code": "Southampton",
+    "country": "01073",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.225/-72.719"
+  },
+  {
+    "place": "70",
+    "code": "Thorndike",
+    "country": "01079",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampden",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.193/-72.33"
+  },
+  {
+    "place": "71",
+    "code": "Wales",
+    "country": "01081",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampden",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.063/-72.205"
+  },
+  {
+    "place": "72",
+    "code": "Wheelwright",
+    "country": "01094",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.358/-72.141"
+  },
+  {
+    "place": "73",
+    "code": "Worthington",
+    "country": "01098",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.384/-72.931"
+  },
+  {
+    "place": "74",
+    "code": "Glendale",
+    "country": "01229",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.279/-73.344"
+  },
+  {
+    "place": "75",
+    "code": "Hinsdale",
+    "country": "01235",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.43/-73.072"
+  },
+  {
+    "place": "76",
+    "code": "Housatonic",
+    "country": "01236",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.265/-73.375"
+  },
+  {
+    "place": "77",
+    "code": "Middlefield",
+    "country": "01243",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.356/-73.01"
+  },
+  {
+    "place": "78",
+    "code": "Otis",
+    "country": "01253",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.193/-73.092"
+  },
+  {
+    "place": "79",
+    "code": "Sandisfield",
+    "country": "01255",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.109/-73.116"
+  },
+  {
+    "place": "80",
+    "code": "Southfield",
+    "country": "01259",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.078/-73.261"
+  },
+  {
+    "place": "81",
+    "code": "Greenfield",
+    "country": "01301",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.601/-72.624"
+  },
+  {
+    "place": "82",
+    "code": "Drury",
+    "country": "01343",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.643/-72.986"
+  },
+  {
+    "place": "83",
+    "code": "Orange",
+    "country": "01364",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.613/-72.292"
+  },
+  {
+    "place": "84",
+    "code": "Fiskdale",
+    "country": "01518",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.123/-72.118"
+  },
+  {
+    "place": "85",
+    "code": "Whitinsville",
+    "country": "01588",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.115/-71.664"
+  },
+  {
+    "place": "86",
+    "code": "Boxborough",
+    "country": "01719",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.488/-71.518"
+  },
+  {
+    "place": "87",
+    "code": "Fayville",
+    "country": "01745",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.293/-71.503"
+  },
+  {
+    "place": "88",
+    "code": "Hopedale",
+    "country": "01747",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.127/-71.538"
+  },
+  {
+    "place": "89",
+    "code": "Woodville",
+    "country": "01784",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.238/-71.562"
+  },
+  {
+    "place": "90",
+    "code": "North Chelmsford",
+    "country": "01863",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.635/-71.391"
+  },
+  {
+    "place": "91",
+    "code": "Pinehurst",
+    "country": "01866",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.529/-71.228"
+  },
+  {
+    "place": "92",
+    "code": "Newbury",
+    "country": "01951",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Essex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.783/-70.847"
+  },
+  {
+    "place": "93",
+    "code": "Humarock",
+    "country": "02047",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Plymouth",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.143/-70.694"
+  },
+  {
+    "place": "94",
+    "code": "Sheldonville",
+    "country": "02070",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Norfolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.035/-71.387"
+  },
+  {
+    "place": "95",
+    "code": "Mattapan",
+    "country": "02126",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Suffolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.274/-71.094"
+  },
+  {
+    "place": "96",
+    "code": "Readville",
+    "country": "02137",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Suffolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.24/-71.137"
+  },
+  {
+    "place": "97",
+    "code": "Braintree",
+    "country": "02184",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Norfolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.209/-70.996"
+  },
+  {
+    "place": "98",
+    "code": "Braintree",
+    "country": "02185",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Norfolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.18/-71.089"
+  },
+  {
+    "place": "99",
+    "code": "Avon",
+    "country": "02322",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Norfolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.126/-71.044"
+  },
+  {
+    "place": "100",
+    "code": "Bryantville",
+    "country": "02327",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Plymouth",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.041/-70.827"
+  },
+  {
+    "place": "101",
+    "code": "Monponsett",
+    "country": "02350",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Plymouth",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.019/-70.847"
+  },
+  {
+    "place": "102",
+    "code": "Newtonville",
+    "country": "02460",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.352/-71.208"
+  },
+  {
+    "place": "103",
+    "code": "Onset",
+    "country": "02558",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Plymouth",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.748/-70.658"
+  },
+  {
+    "place": "104",
+    "code": "Cummaquid",
+    "country": "02637",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Barnstable",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.701/-70.277"
+  },
+  {
+    "place": "105",
+    "code": "Forestdale",
+    "country": "02644",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Barnstable",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.683/-70.514"
+  },
+  {
+    "place": "106",
+    "code": "Osterville",
+    "country": "02655",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Barnstable",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.63/-70.384"
+  },
+  {
+    "place": "107",
+    "code": "South Yarmouth",
+    "country": "02664",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Barnstable",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.674/-70.195"
+  },
+  {
+    "place": "108",
+    "code": "West Chatham",
+    "country": "02669",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Barnstable",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.681/-69.991"
+  },
+  {
+    "place": "109",
+    "code": "Chartley",
+    "country": "02712",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Bristol",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.949/-71.226"
+  },
+  {
+    "place": "110",
+    "code": "Cuttyhunk",
+    "country": "02713",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Dukes",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.422/-70.931"
+  },
+  {
+    "place": "111",
+    "code": "Dartmouth",
+    "country": "02714",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Bristol",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.756/-71.067"
+  },
+  {
+    "place": "112",
+    "code": "Westport",
+    "country": "02790",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Bristol",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.621/-71.089"
+  },
+  {
+    "place": "113",
+    "code": "Portsmouth",
+    "country": "02871",
+    "admin1": "United States",
+    "admin2": "Rhode Island",
+    "admin3": "Newport",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.594/-71.252"
+  },
+  {
+    "place": "114",
+    "code": "York",
+    "country": "03909",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "York",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.154/-70.658"
+  },
+  {
+    "place": "115",
+    "code": "Denmark",
+    "country": "04022",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.975/-70.792"
+  },
+  {
+    "place": "116",
+    "code": "Moody",
+    "country": "04054",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "York",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.276/-70.598"
+  },
+  {
+    "place": "117",
+    "code": "Windham",
+    "country": "04062",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Cumberland",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.796/-70.414"
+  },
+  {
+    "place": "118",
+    "code": "Porter",
+    "country": "04068",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.826/-70.924"
+  },
+  {
+    "place": "119",
+    "code": "Pownal",
+    "country": "04069",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Cumberland",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.89/-70.195"
+  },
+  {
+    "place": "120",
+    "code": "Springvale",
+    "country": "04083",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "York",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.471/-70.806"
+  },
+  {
+    "place": "121",
+    "code": "Topsham",
+    "country": "04086",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Sagadahoc",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.981/-69.938"
+  },
+  {
+    "place": "122",
+    "code": "Waterford",
+    "country": "04088",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.193/-70.716"
+  },
+  {
+    "place": "123",
+    "code": "Andover",
+    "country": "04216",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.664/-70.797"
+  },
+  {
+    "place": "124",
+    "code": "Buckfield",
+    "country": "04220",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.288/-70.368"
+  },
+  {
+    "place": "125",
+    "code": "Canton",
+    "country": "04221",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.46/-70.3"
+  },
+  {
+    "place": "126",
+    "code": "Hebron",
+    "country": "04238",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.202/-70.375"
+  },
+  {
+    "place": "127",
+    "code": "Lisbon",
+    "country": "04250",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Androscoggin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.026/-70.114"
+  },
+  {
+    "place": "128",
+    "code": "Mexico",
+    "country": "04257",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.563/-70.536"
+  },
+  {
+    "place": "129",
+    "code": "Newry",
+    "country": "04261",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.69/-71.011"
+  },
+  {
+    "place": "130",
+    "code": "Wayne",
+    "country": "04284",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Kennebec",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.349/-70.071"
+  },
+  {
+    "place": "131",
+    "code": "Abbot",
+    "country": "04406",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Piscataquis",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.235/-69.57"
+  },
+  {
+    "place": "132",
+    "code": "Bradford",
+    "country": "04410",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.086/-68.923"
+  },
+  {
+    "place": "133",
+    "code": "Bradley",
+    "country": "04411",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.901/-68.626"
+  },
+  {
+    "place": "134",
+    "code": "Brookton",
+    "country": "04413",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.551/-67.744"
+  },
+  {
+    "place": "135",
+    "code": "Brownville",
+    "country": "04414",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Piscataquis",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.341/-69.042"
+  },
+  {
+    "place": "136",
+    "code": "Eddington",
+    "country": "04428",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.792/-68.578"
+  },
+  {
+    "place": "137",
+    "code": "Etna",
+    "country": "04434",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.793/-69.132"
+  },
+  {
+    "place": "138",
+    "code": "Exeter",
+    "country": "04435",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.968/-69.108"
+  },
+  {
+    "place": "139",
+    "code": "Lee",
+    "country": "04455",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.364/-68.291"
+  },
+  {
+    "place": "140",
+    "code": "Levant",
+    "country": "04456",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.884/-68.984"
+  },
+  {
+    "place": "141",
+    "code": "Orient",
+    "country": "04471",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Aroostook",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.891/-67.847"
+  },
+  {
+    "place": "142",
+    "code": "Orland",
+    "country": "04472",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.546/-68.731"
+  },
+  {
+    "place": "143",
+    "code": "Orrington",
+    "country": "04474",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.726/-68.788"
+  },
+  {
+    "place": "144",
+    "code": "Sangerville",
+    "country": "04479",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Piscataquis",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.141/-69.322"
+  },
+  {
+    "place": "145",
+    "code": "Stetson",
+    "country": "04488",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.884/-69.107"
+  },
+  {
+    "place": "146",
+    "code": "Stillwater",
+    "country": "04489",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.908/-68.686"
+  },
+  {
+    "place": "147",
+    "code": "Winn",
+    "country": "04495",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.457/-68.357"
+  },
+  {
+    "place": "148",
+    "code": "Beals",
+    "country": "04611",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.513/-67.606"
+  },
+  {
+    "place": "149",
+    "code": "Bernard",
+    "country": "04612",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.242/-68.358"
+  },
+  {
+    "place": "150",
+    "code": "Brooklin",
+    "country": "04616",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.254/-68.557"
+  },
+  {
+    "place": "151",
+    "code": "Corea",
+    "country": "04624",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.405/-67.985"
+  },
+  {
+    "place": "152",
+    "code": "Cutler",
+    "country": "04626",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.675/-67.25"
+  },
+  {
+    "place": "153",
+    "code": "Dennysville",
+    "country": "04628",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.896/-67.224"
+  },
+  {
+    "place": "154",
+    "code": "Jonesport",
+    "country": "04649",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.551/-67.604"
+  },
+  {
+    "place": "155",
+    "code": "Sedgwick",
+    "country": "04676",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.336/-68.638"
+  },
+  {
+    "place": "156",
+    "code": "Sorrento",
+    "country": "04677",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.491/-68.179"
+  },
+  {
+    "place": "157",
+    "code": "Steuben",
+    "country": "04680",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.497/-67.95"
+  },
+  {
+    "place": "158",
+    "code": "Stonington",
+    "country": "04681",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.175/-68.675"
+  },
+  {
+    "place": "159",
+    "code": "Sunset",
+    "country": "04683",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.206/-68.705"
+  },
+  {
+    "place": "160",
+    "code": "Surry",
+    "country": "04684",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.488/-68.506"
+  },
+  {
+    "place": "161",
+    "code": "Madawaska",
+    "country": "04756",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Aroostook",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   47.329/-68.333"
+  },
+  {
+    "place": "162",
+    "code": "Patten",
+    "country": "04765",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   46.013/-68.465"
+  },
+  {
+    "place": "163",
+    "code": "Bingham",
+    "country": "04920",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Somerset",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.068/-69.886"
+  },
+  {
+    "place": "164",
+    "code": "Brooks",
+    "country": "04921",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Waldo",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.568/-69.14"
+  },
+  {
+    "place": "165",
+    "code": "Corinna",
+    "country": "04928",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.926/-69.232"
+  },
+  {
+    "place": "166",
+    "code": "Dixmont",
+    "country": "04932",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.699/-69.103"
+  },
+  {
+    "place": "167",
+    "code": "Eustis",
+    "country": "04936",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.336/-70.628"
+  },
+  {
+    "place": "168",
+    "code": "Liberty",
+    "country": "04949",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Waldo",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.374/-69.331"
+  },
+  {
+    "place": "169",
+    "code": "Morrill",
+    "country": "04952",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Waldo",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.411/-69.147"
+  },
+  {
+    "place": "170",
+    "code": "Pittsfield",
+    "country": "04967",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Somerset",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.787/-69.402"
+  },
+  {
+    "place": "171",
+    "code": "Searsport",
+    "country": "04974",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Waldo",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.488/-68.931"
+  },
+  {
+    "place": "172",
+    "code": "Strong",
+    "country": "04983",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.822/-70.222"
+  },
+  {
+    "place": "173",
+    "code": "Temple",
+    "country": "04984",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.695/-70.243"
+  },
+  {
+    "place": "174",
+    "code": "Unity",
+    "country": "04988",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Waldo",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.601/-69.333"
+  },
+  {
+    "place": "175",
+    "code": "Thetford",
+    "country": "05074",
+    "admin1": "United States",
+    "admin2": "Vermont",
+    "admin3": "Orange",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.996/-72.411"
+  },
+  {
+    "place": "176",
+    "code": "Essex",
+    "country": "05451",
+    "admin1": "United States",
+    "admin2": "Vermont",
+    "admin3": "Chittenden",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.508/-73.05"
+  },
+  {
+    "place": "177",
+    "code": "Fairfax",
+    "country": "05454",
+    "admin1": "United States",
+    "admin2": "Vermont",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.692/-73.024"
+  },
+  {
+    "place": "178",
+    "code": "Killington",
+    "country": "05751",
+    "admin1": "United States",
+    "admin2": "Vermont",
+    "admin3": "Rutland",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.663/-72.796"
+  },
+  {
+    "place": "179",
+    "code": "Derby",
+    "country": "05829",
+    "admin1": "United States",
+    "admin2": "Vermont",
+    "admin3": "Orleans",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.95/-72.138"
+  },
+  {
+    "place": "180",
+    "code": "Unionville",
+    "country": "06085",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Hartford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.748/-72.887"
+  },
+  {
+    "place": "181",
+    "code": "Weatogue",
+    "country": "06089",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Hartford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.837/-72.825"
+  },
+  {
+    "place": "182",
+    "code": "Andover",
+    "country": "06232",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Tolland",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.733/-72.377"
+  },
+  {
+    "place": "183",
+    "code": "Dayville",
+    "country": "06241",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Windham",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.854/-71.868"
+  },
+  {
+    "place": "184",
+    "code": "Quinebaug",
+    "country": "06262",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Windham",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.022/-71.939"
+  },
+  {
+    "place": "185",
+    "code": "Scotland",
+    "country": "06264",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Windham",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.696/-72.087"
+  },
+  {
+    "place": "186",
+    "code": "Botsford",
+    "country": "06404",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Fairfield",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.366/-73.257"
+  },
+  {
+    "place": "187",
+    "code": "Cobalt",
+    "country": "06414",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.567/-72.558"
+  },
+  {
+    "place": "188",
+    "code": "Hawleyville",
+    "country": "06440",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Fairfield",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.428/-73.355"
+  },
+  {
+    "place": "189",
+    "code": "Ivoryton",
+    "country": "06442",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.342/-72.44"
+  },
+  {
+    "place": "190",
+    "code": "Marion",
+    "country": "06444",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Hartford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.564/-72.926"
+  },
+  {
+    "place": "191",
+    "code": "Milldale",
+    "country": "06467",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Hartford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.566/-72.892"
+  },
+  {
+    "place": "192",
+    "code": "Rockfall",
+    "country": "06481",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.534/-72.7"
+  },
+  {
+    "place": "193",
+    "code": "Lakeside",
+    "country": "06758",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Litchfield",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.675/-73.242"
+  },
+  {
+    "place": "194",
+    "code": "Riverside",
+    "country": "06878",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Fairfield",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.038/-73.581"
+  },
+  {
+    "place": "195",
+    "code": "Avenel",
+    "country": "07001",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.583/-74.279"
+  },
+  {
+    "place": "196",
+    "code": "Cranford",
+    "country": "07016",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Union",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.655/-74.306"
+  },
+  {
+    "place": "197",
+    "code": "Orange",
+    "country": "07050",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Essex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.769/-74.236"
+  },
+  {
+    "place": "198",
+    "code": "Orange",
+    "country": "07051",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Essex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.792/-74.245"
+  },
+  {
+    "place": "199",
+    "code": "Clark",
+    "country": "07066",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Union",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.62/-74.311"
+  },
+  {
+    "place": "200",
+    "code": "Springfield",
+    "country": "07081",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Union",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.701/-74.323"
+  },
+  {
+    "place": ""
+  },
+  {
+    "place": ""
+  },
+  {
+    "place": "1",
+    "code": "Four States",
+    "country": "26572",
+    "admin1": "United States",
+    "admin2": "West Virginia",
+    "admin3": "Marion",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   39.48/-80.31"
+  },
+  {
+    "place": "2",
+    "code": "Myersville",
+    "country": "21773",
+    "admin1": "United States",
+    "admin2": "Maryland",
+    "admin3": "Frederick",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   39.528/-77.551"
+  },
+  {
+    "place": "3",
+    "code": "Fairfax",
+    "country": "22033",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Fairfax",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.878/-77.388"
+  },
+  {
+    "place": "4",
+    "code": "Alexandria",
+    "country": "22303",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Fairfax",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.791/-77.081"
+  },
+  {
+    "place": "5",
+    "code": "Alexandria",
+    "country": "22306",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Fairfax",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.759/-77.087"
+  },
+  {
+    "place": "6",
+    "code": "Alexandria",
+    "country": "22310",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Fairfax",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.779/-77.119"
+  },
+  {
+    "place": "7",
+    "code": "Alexandria",
+    "country": "22312",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Fairfax",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.819/-77.148"
+  },
+  {
+    "place": "8",
+    "code": "Williamsburg",
+    "country": "23185",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "James City",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   37.273/-76.732"
+  },
+  {
+    "place": "9",
+    "code": "Richmond",
+    "country": "23230",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Henrico",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   37.592/-77.495"
+  },
+  {
+    "place": "10",
+    "code": "Henrico",
+    "country": "23233",
+    "admin1": "United States",
+    "admin2": "Virginia",
+    "admin3": "Henrico",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   37.464/-77.398"
+  },
+  {
+    "place": "11",
+    "code": "Scottdale",
+    "country": "30079",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.793/-84.259"
+  },
+  {
+    "place": "12",
+    "code": "Conley",
+    "country": "30288",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "Clayton",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.637/-84.337"
+  },
+  {
+    "place": "13",
+    "code": "Ellenwood",
+    "country": "30294",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "Clayton",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.617/-84.294"
+  },
+  {
+    "place": "14",
+    "code": "Atlanta",
+    "country": "30319",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.869/-84.335"
+  },
+  {
+    "place": "15",
+    "code": "Atlanta",
+    "country": "30329",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.824/-84.321"
+  },
+  {
+    "place": "16",
+    "code": "Atlanta",
+    "country": "30341",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.888/-84.29"
+  },
+  {
+    "place": "17",
+    "code": "Atlanta",
+    "country": "30345",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.851/-84.287"
+  },
+  {
+    "place": "18",
+    "code": "Atlanta",
+    "country": "30346",
+    "admin1": "United States",
+    "admin2": "Georgia",
+    "admin3": "DeKalb",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.927/-84.333"
+  },
+  {
+    "place": "19",
+    "code": "Yulee",
+    "country": "32041",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Nassau",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   30.623/-81.59"
+  },
+  {
+    "place": "20",
+    "code": "Edgewater",
+    "country": "32132",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Volusia",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.982/-80.91"
+  },
+  {
+    "place": "21",
+    "code": "Cypress",
+    "country": "32432",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Jackson",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   30.716/-85.078"
+  },
+  {
+    "place": "22",
+    "code": "Alachua",
+    "country": "32615",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Alachua",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.813/-82.472"
+  },
+  {
+    "place": "23",
+    "code": "Chiefland",
+    "country": "32626",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Levy",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.483/-82.881"
+  },
+  {
+    "place": "24",
+    "code": "Melrose",
+    "country": "32666",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Putnam",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.732/-82.028"
+  },
+  {
+    "place": "25",
+    "code": "Mims",
+    "country": "32754",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Brevard",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.697/-80.866"
+  },
+  {
+    "place": "26",
+    "code": "Sanford",
+    "country": "32771",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Seminole",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.801/-81.285"
+  },
+  {
+    "place": "27",
+    "code": "Lutz",
+    "country": "33548",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.139/-82.482"
+  },
+  {
+    "place": "28",
+    "code": "Lutz",
+    "country": "33549",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.137/-82.461"
+  },
+  {
+    "place": "29",
+    "code": "Odessa",
+    "country": "33556",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.142/-82.591"
+  },
+  {
+    "place": "30",
+    "code": "Seffner",
+    "country": "33583",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   27.872/-82.439"
+  },
+  {
+    "place": "31",
+    "code": "Valrico",
+    "country": "33594",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   27.941/-82.242"
+  },
+  {
+    "place": "32",
+    "code": "Wimauma",
+    "country": "33598",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Hillsborough",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   27.701/-82.315"
+  },
+  {
+    "place": "33",
+    "code": "Captiva",
+    "country": "33924",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Lee",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   26.521/-82.18"
+  },
+  {
+    "place": "34",
+    "code": "Placida",
+    "country": "33946",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Charlotte",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   26.832/-82.265"
+  },
+  {
+    "place": "35",
+    "code": "Laurel",
+    "country": "34272",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Sarasota",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   27.147/-82.426"
+  },
+  {
+    "place": "36",
+    "code": "Nokomis",
+    "country": "34274",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Sarasota",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   27.144/-82.464"
+  },
+  {
+    "place": "37",
+    "code": "Dunnellon",
+    "country": "34430",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Marion",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.049/-82.461"
+  },
+  {
+    "place": "38",
+    "code": "Dunnellon",
+    "country": "34431",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Marion",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.139/-82.533"
+  },
+  {
+    "place": "39",
+    "code": "Dunnellon",
+    "country": "34432",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Marion",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.102/-82.341"
+  },
+  {
+    "place": "40",
+    "code": "Dunnellon",
+    "country": "34433",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.995/-82.52"
+  },
+  {
+    "place": "41",
+    "code": "Hernando",
+    "country": "34442",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.922/-82.39"
+  },
+  {
+    "place": "42",
+    "code": "Homosassa",
+    "country": "34446",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.751/-82.514"
+  },
+  {
+    "place": "43",
+    "code": "Homosassa",
+    "country": "34448",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.788/-82.568"
+  },
+  {
+    "place": "44",
+    "code": "Lecanto",
+    "country": "34460",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.859/-82.509"
+  },
+  {
+    "place": "45",
+    "code": "Homosassa",
+    "country": "34487",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Citrus",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.781/-82.615"
+  },
+  {
+    "place": "46",
+    "code": "Summerfield",
+    "country": "34491",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Marion",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   29.011/-82.032"
+  },
+  {
+    "place": "47",
+    "code": "Hudson",
+    "country": "34667",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Pasco",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.365/-82.676"
+  },
+  {
+    "place": "48",
+    "code": "Holiday",
+    "country": "34690",
+    "admin1": "United States",
+    "admin2": "Florida",
+    "admin3": "Pasco",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   28.191/-82.728"
+  },
+  {
+    "place": "49",
+    "code": "Hebron",
+    "country": "43025",
+    "admin1": "United States",
+    "admin2": "Ohio",
+    "admin3": "Licking",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   39.953/-82.492"
+  },
+  {
+    "place": "50",
+    "code": "Lebanon",
+    "country": "46052",
+    "admin1": "United States",
+    "admin2": "Indiana",
+    "admin3": "Boone",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.045/-86.464"
+  },
+  {
+    "place": "51",
+    "code": "Belleville",
+    "country": "48111",
+    "admin1": "United States",
+    "admin2": "Michigan",
+    "admin3": "Wayne",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.195/-83.485"
+  },
+  {
+    "place": "52",
+    "code": "Germantown",
+    "country": "53022",
+    "admin1": "United States",
+    "admin2": "Wisconsin",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.219/-88.117"
+  },
+  {
+    "place": "53",
+    "code": "Itasca",
+    "country": "60143",
+    "admin1": "United States",
+    "admin2": "Illinois",
+    "admin3": "DuPage",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.972/-88.02"
+  },
+  {
+    "place": "54",
+    "code": "Hinsdale",
+    "country": "60521",
+    "admin1": "United States",
+    "admin2": "Illinois",
+    "admin3": "DuPage",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.8/-87.929"
+  },
+  {
+    "place": "55",
+    "code": "Willowbrook",
+    "country": "60527",
+    "admin1": "United States",
+    "admin2": "Illinois",
+    "admin3": "DuPage",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.745/-87.933"
+  },
+  {
+    "place": "56",
+    "code": "Paris",
+    "country": "75462",
+    "admin1": "United States",
+    "admin2": "Texas",
+    "admin3": "Lamar",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   33.68/-95.491"
+  },
+  {
+    "place": "57",
+    "code": "Gardnerville",
+    "country": "89410",
+    "admin1": "United States",
+    "admin2": "Nevada",
+    "admin3": "Douglas",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   38.87/-119.611"
+  },
+  {
+    "place": "58",
+    "code": "Chatsworth",
+    "country": "91311",
+    "admin1": "United States",
+    "admin2": "California",
+    "admin3": "Los Angeles",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   34.258/-118.591"
+  },
+  {
+    "place": "59",
+    "code": "Kihei",
+    "country": "96753",
+    "admin1": "United States",
+    "admin2": "Hawaii",
+    "admin3": "Maui",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   20.744/-156.448"
+  },
+  {
+    "place": "60",
+    "code": "Mount Vernon",
+    "country": "36560",
+    "admin1": "United States",
+    "admin2": "Alabama",
+    "admin3": "Mobile",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   31.097/-88.035"
+  },
+  {
+    "place": "61",
+    "code": "Holtsville",
+    "country": "00501",
+    "admin1": "United States",
+    "admin2": "New York",
+    "admin3": "Suffolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.815/-73.045"
+  },
+  {
+    "place": "62",
+    "code": "Holtsville",
+    "country": "00544",
+    "admin1": "United States",
+    "admin2": "New York",
+    "admin3": "Suffolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.815/-73.045"
+  },
+  {
+    "place": "63",
+    "code": "Gilbertville",
+    "country": "01031",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.332/-72.199"
+  },
+  {
+    "place": "64",
+    "code": "Goshen",
+    "country": "01032",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.44/-72.8"
+  },
+  {
+    "place": "65",
+    "code": "Haydenville",
+    "country": "01039",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.382/-72.703"
+  },
+  {
+    "place": "66",
+    "code": "Florence",
+    "country": "01062",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.322/-72.693"
+  },
+  {
+    "place": "67",
+    "code": "North Hatfield",
+    "country": "01066",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.411/-72.622"
+  },
+  {
+    "place": "68",
+    "code": "Plainfield",
+    "country": "01070",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.514/-72.918"
+  },
+  {
+    "place": "69",
+    "code": "Southampton",
+    "country": "01073",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.225/-72.719"
+  },
+  {
+    "place": "70",
+    "code": "Thorndike",
+    "country": "01079",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampden",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.193/-72.33"
+  },
+  {
+    "place": "71",
+    "code": "Wales",
+    "country": "01081",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampden",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.063/-72.205"
+  },
+  {
+    "place": "72",
+    "code": "Wheelwright",
+    "country": "01094",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.358/-72.141"
+  },
+  {
+    "place": "73",
+    "code": "Worthington",
+    "country": "01098",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.384/-72.931"
+  },
+  {
+    "place": "74",
+    "code": "Glendale",
+    "country": "01229",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.279/-73.344"
+  },
+  {
+    "place": "75",
+    "code": "Hinsdale",
+    "country": "01235",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.43/-73.072"
+  },
+  {
+    "place": "76",
+    "code": "Housatonic",
+    "country": "01236",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.265/-73.375"
+  },
+  {
+    "place": "77",
+    "code": "Middlefield",
+    "country": "01243",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Hampshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.356/-73.01"
+  },
+  {
+    "place": "78",
+    "code": "Otis",
+    "country": "01253",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.193/-73.092"
+  },
+  {
+    "place": "79",
+    "code": "Sandisfield",
+    "country": "01255",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.109/-73.116"
+  },
+  {
+    "place": "80",
+    "code": "Southfield",
+    "country": "01259",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.078/-73.261"
+  },
+  {
+    "place": "81",
+    "code": "Greenfield",
+    "country": "01301",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.601/-72.624"
+  },
+  {
+    "place": "82",
+    "code": "Drury",
+    "country": "01343",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Berkshire",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.643/-72.986"
+  },
+  {
+    "place": "83",
+    "code": "Orange",
+    "country": "01364",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.613/-72.292"
+  },
+  {
+    "place": "84",
+    "code": "Fiskdale",
+    "country": "01518",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.123/-72.118"
+  },
+  {
+    "place": "85",
+    "code": "Whitinsville",
+    "country": "01588",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.115/-71.664"
+  },
+  {
+    "place": "86",
+    "code": "Boxborough",
+    "country": "01719",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.488/-71.518"
+  },
+  {
+    "place": "87",
+    "code": "Fayville",
+    "country": "01745",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.293/-71.503"
+  },
+  {
+    "place": "88",
+    "code": "Hopedale",
+    "country": "01747",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Worcester",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.127/-71.538"
+  },
+  {
+    "place": "89",
+    "code": "Woodville",
+    "country": "01784",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.238/-71.562"
+  },
+  {
+    "place": "90",
+    "code": "North Chelmsford",
+    "country": "01863",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.635/-71.391"
+  },
+  {
+    "place": "91",
+    "code": "Pinehurst",
+    "country": "01866",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.529/-71.228"
+  },
+  {
+    "place": "92",
+    "code": "Newbury",
+    "country": "01951",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Essex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.783/-70.847"
+  },
+  {
+    "place": "93",
+    "code": "Humarock",
+    "country": "02047",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Plymouth",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.143/-70.694"
+  },
+  {
+    "place": "94",
+    "code": "Sheldonville",
+    "country": "02070",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Norfolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.035/-71.387"
+  },
+  {
+    "place": "95",
+    "code": "Mattapan",
+    "country": "02126",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Suffolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.274/-71.094"
+  },
+  {
+    "place": "96",
+    "code": "Readville",
+    "country": "02137",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Suffolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.24/-71.137"
+  },
+  {
+    "place": "97",
+    "code": "Braintree",
+    "country": "02184",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Norfolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.209/-70.996"
+  },
+  {
+    "place": "98",
+    "code": "Braintree",
+    "country": "02185",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Norfolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.18/-71.089"
+  },
+  {
+    "place": "99",
+    "code": "Avon",
+    "country": "02322",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Norfolk",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.126/-71.044"
+  },
+  {
+    "place": "100",
+    "code": "Bryantville",
+    "country": "02327",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Plymouth",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.041/-70.827"
+  },
+  {
+    "place": "101",
+    "code": "Monponsett",
+    "country": "02350",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Plymouth",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.019/-70.847"
+  },
+  {
+    "place": "102",
+    "code": "Newtonville",
+    "country": "02460",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.352/-71.208"
+  },
+  {
+    "place": "103",
+    "code": "Onset",
+    "country": "02558",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Plymouth",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.748/-70.658"
+  },
+  {
+    "place": "104",
+    "code": "Cummaquid",
+    "country": "02637",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Barnstable",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.701/-70.277"
+  },
+  {
+    "place": "105",
+    "code": "Forestdale",
+    "country": "02644",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Barnstable",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.683/-70.514"
+  },
+  {
+    "place": "106",
+    "code": "Osterville",
+    "country": "02655",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Barnstable",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.63/-70.384"
+  },
+  {
+    "place": "107",
+    "code": "South Yarmouth",
+    "country": "02664",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Barnstable",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.674/-70.195"
+  },
+  {
+    "place": "108",
+    "code": "West Chatham",
+    "country": "02669",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Barnstable",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.681/-69.991"
+  },
+  {
+    "place": "109",
+    "code": "Chartley",
+    "country": "02712",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Bristol",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.949/-71.226"
+  },
+  {
+    "place": "110",
+    "code": "Cuttyhunk",
+    "country": "02713",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Dukes",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.422/-70.931"
+  },
+  {
+    "place": "111",
+    "code": "Dartmouth",
+    "country": "02714",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Bristol",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.756/-71.067"
+  },
+  {
+    "place": "112",
+    "code": "Westport",
+    "country": "02790",
+    "admin1": "United States",
+    "admin2": "Massachusetts",
+    "admin3": "Bristol",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.621/-71.089"
+  },
+  {
+    "place": "113",
+    "code": "Portsmouth",
+    "country": "02871",
+    "admin1": "United States",
+    "admin2": "Rhode Island",
+    "admin3": "Newport",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.594/-71.252"
+  },
+  {
+    "place": "114",
+    "code": "York",
+    "country": "03909",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "York",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.154/-70.658"
+  },
+  {
+    "place": "115",
+    "code": "Denmark",
+    "country": "04022",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.975/-70.792"
+  },
+  {
+    "place": "116",
+    "code": "Moody",
+    "country": "04054",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "York",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.276/-70.598"
+  },
+  {
+    "place": "117",
+    "code": "Windham",
+    "country": "04062",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Cumberland",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.796/-70.414"
+  },
+  {
+    "place": "118",
+    "code": "Porter",
+    "country": "04068",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.826/-70.924"
+  },
+  {
+    "place": "119",
+    "code": "Pownal",
+    "country": "04069",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Cumberland",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.89/-70.195"
+  },
+  {
+    "place": "120",
+    "code": "Springvale",
+    "country": "04083",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "York",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.471/-70.806"
+  },
+  {
+    "place": "121",
+    "code": "Topsham",
+    "country": "04086",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Sagadahoc",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.981/-69.938"
+  },
+  {
+    "place": "122",
+    "code": "Waterford",
+    "country": "04088",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.193/-70.716"
+  },
+  {
+    "place": "123",
+    "code": "Andover",
+    "country": "04216",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.664/-70.797"
+  },
+  {
+    "place": "124",
+    "code": "Buckfield",
+    "country": "04220",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.288/-70.368"
+  },
+  {
+    "place": "125",
+    "code": "Canton",
+    "country": "04221",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.46/-70.3"
+  },
+  {
+    "place": "126",
+    "code": "Hebron",
+    "country": "04238",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.202/-70.375"
+  },
+  {
+    "place": "127",
+    "code": "Lisbon",
+    "country": "04250",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Androscoggin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.026/-70.114"
+  },
+  {
+    "place": "128",
+    "code": "Mexico",
+    "country": "04257",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.563/-70.536"
+  },
+  {
+    "place": "129",
+    "code": "Newry",
+    "country": "04261",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Oxford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.69/-71.011"
+  },
+  {
+    "place": "130",
+    "code": "Wayne",
+    "country": "04284",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Kennebec",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.349/-70.071"
+  },
+  {
+    "place": "131",
+    "code": "Abbot",
+    "country": "04406",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Piscataquis",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.235/-69.57"
+  },
+  {
+    "place": "132",
+    "code": "Bradford",
+    "country": "04410",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.086/-68.923"
+  },
+  {
+    "place": "133",
+    "code": "Bradley",
+    "country": "04411",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.901/-68.626"
+  },
+  {
+    "place": "134",
+    "code": "Brookton",
+    "country": "04413",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.551/-67.744"
+  },
+  {
+    "place": "135",
+    "code": "Brownville",
+    "country": "04414",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Piscataquis",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.341/-69.042"
+  },
+  {
+    "place": "136",
+    "code": "Eddington",
+    "country": "04428",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.792/-68.578"
+  },
+  {
+    "place": "137",
+    "code": "Etna",
+    "country": "04434",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.793/-69.132"
+  },
+  {
+    "place": "138",
+    "code": "Exeter",
+    "country": "04435",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.968/-69.108"
+  },
+  {
+    "place": "139",
+    "code": "Lee",
+    "country": "04455",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.364/-68.291"
+  },
+  {
+    "place": "140",
+    "code": "Levant",
+    "country": "04456",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.884/-68.984"
+  },
+  {
+    "place": "141",
+    "code": "Orient",
+    "country": "04471",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Aroostook",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.891/-67.847"
+  },
+  {
+    "place": "142",
+    "code": "Orland",
+    "country": "04472",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.546/-68.731"
+  },
+  {
+    "place": "143",
+    "code": "Orrington",
+    "country": "04474",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.726/-68.788"
+  },
+  {
+    "place": "144",
+    "code": "Sangerville",
+    "country": "04479",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Piscataquis",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.141/-69.322"
+  },
+  {
+    "place": "145",
+    "code": "Stetson",
+    "country": "04488",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.884/-69.107"
+  },
+  {
+    "place": "146",
+    "code": "Stillwater",
+    "country": "04489",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.908/-68.686"
+  },
+  {
+    "place": "147",
+    "code": "Winn",
+    "country": "04495",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.457/-68.357"
+  },
+  {
+    "place": "148",
+    "code": "Beals",
+    "country": "04611",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.513/-67.606"
+  },
+  {
+    "place": "149",
+    "code": "Bernard",
+    "country": "04612",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.242/-68.358"
+  },
+  {
+    "place": "150",
+    "code": "Brooklin",
+    "country": "04616",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.254/-68.557"
+  },
+  {
+    "place": "151",
+    "code": "Corea",
+    "country": "04624",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.405/-67.985"
+  },
+  {
+    "place": "152",
+    "code": "Cutler",
+    "country": "04626",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.675/-67.25"
+  },
+  {
+    "place": "153",
+    "code": "Dennysville",
+    "country": "04628",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.896/-67.224"
+  },
+  {
+    "place": "154",
+    "code": "Jonesport",
+    "country": "04649",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.551/-67.604"
+  },
+  {
+    "place": "155",
+    "code": "Sedgwick",
+    "country": "04676",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.336/-68.638"
+  },
+  {
+    "place": "156",
+    "code": "Sorrento",
+    "country": "04677",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.491/-68.179"
+  },
+  {
+    "place": "157",
+    "code": "Steuben",
+    "country": "04680",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Washington",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.497/-67.95"
+  },
+  {
+    "place": "158",
+    "code": "Stonington",
+    "country": "04681",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.175/-68.675"
+  },
+  {
+    "place": "159",
+    "code": "Sunset",
+    "country": "04683",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.206/-68.705"
+  },
+  {
+    "place": "160",
+    "code": "Surry",
+    "country": "04684",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Hancock",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.488/-68.506"
+  },
+  {
+    "place": "161",
+    "code": "Madawaska",
+    "country": "04756",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Aroostook",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   47.329/-68.333"
+  },
+  {
+    "place": "162",
+    "code": "Patten",
+    "country": "04765",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   46.013/-68.465"
+  },
+  {
+    "place": "163",
+    "code": "Bingham",
+    "country": "04920",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Somerset",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.068/-69.886"
+  },
+  {
+    "place": "164",
+    "code": "Brooks",
+    "country": "04921",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Waldo",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.568/-69.14"
+  },
+  {
+    "place": "165",
+    "code": "Corinna",
+    "country": "04928",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.926/-69.232"
+  },
+  {
+    "place": "166",
+    "code": "Dixmont",
+    "country": "04932",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Penobscot",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.699/-69.103"
+  },
+  {
+    "place": "167",
+    "code": "Eustis",
+    "country": "04936",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   45.336/-70.628"
+  },
+  {
+    "place": "168",
+    "code": "Liberty",
+    "country": "04949",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Waldo",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.374/-69.331"
+  },
+  {
+    "place": "169",
+    "code": "Morrill",
+    "country": "04952",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Waldo",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.411/-69.147"
+  },
+  {
+    "place": "170",
+    "code": "Pittsfield",
+    "country": "04967",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Somerset",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.787/-69.402"
+  },
+  {
+    "place": "171",
+    "code": "Searsport",
+    "country": "04974",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Waldo",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.488/-68.931"
+  },
+  {
+    "place": "172",
+    "code": "Strong",
+    "country": "04983",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.822/-70.222"
+  },
+  {
+    "place": "173",
+    "code": "Temple",
+    "country": "04984",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.695/-70.243"
+  },
+  {
+    "place": "174",
+    "code": "Unity",
+    "country": "04988",
+    "admin1": "United States",
+    "admin2": "Maine",
+    "admin3": "Waldo",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.601/-69.333"
+  },
+  {
+    "place": "175",
+    "code": "Thetford",
+    "country": "05074",
+    "admin1": "United States",
+    "admin2": "Vermont",
+    "admin3": "Orange",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.996/-72.411"
+  },
+  {
+    "place": "176",
+    "code": "Essex",
+    "country": "05451",
+    "admin1": "United States",
+    "admin2": "Vermont",
+    "admin3": "Chittenden",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.508/-73.05"
+  },
+  {
+    "place": "177",
+    "code": "Fairfax",
+    "country": "05454",
+    "admin1": "United States",
+    "admin2": "Vermont",
+    "admin3": "Franklin",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.692/-73.024"
+  },
+  {
+    "place": "178",
+    "code": "Killington",
+    "country": "05751",
+    "admin1": "United States",
+    "admin2": "Vermont",
+    "admin3": "Rutland",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   43.663/-72.796"
+  },
+  {
+    "place": "179",
+    "code": "Derby",
+    "country": "05829",
+    "admin1": "United States",
+    "admin2": "Vermont",
+    "admin3": "Orleans",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   44.95/-72.138"
+  },
+  {
+    "place": "180",
+    "code": "Unionville",
+    "country": "06085",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Hartford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.748/-72.887"
+  },
+  {
+    "place": "181",
+    "code": "Weatogue",
+    "country": "06089",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Hartford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.837/-72.825"
+  },
+  {
+    "place": "182",
+    "code": "Andover",
+    "country": "06232",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Tolland",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.733/-72.377"
+  },
+  {
+    "place": "183",
+    "code": "Dayville",
+    "country": "06241",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Windham",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.854/-71.868"
+  },
+  {
+    "place": "184",
+    "code": "Quinebaug",
+    "country": "06262",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Windham",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   42.022/-71.939"
+  },
+  {
+    "place": "185",
+    "code": "Scotland",
+    "country": "06264",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Windham",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.696/-72.087"
+  },
+  {
+    "place": "186",
+    "code": "Botsford",
+    "country": "06404",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Fairfield",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.366/-73.257"
+  },
+  {
+    "place": "187",
+    "code": "Cobalt",
+    "country": "06414",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.567/-72.558"
+  },
+  {
+    "place": "188",
+    "code": "Hawleyville",
+    "country": "06440",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Fairfield",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.428/-73.355"
+  },
+  {
+    "place": "189",
+    "code": "Ivoryton",
+    "country": "06442",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.342/-72.44"
+  },
+  {
+    "place": "190",
+    "code": "Marion",
+    "country": "06444",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Hartford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.564/-72.926"
+  },
+  {
+    "place": "191",
+    "code": "Milldale",
+    "country": "06467",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Hartford",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.566/-72.892"
+  },
+  {
+    "place": "192",
+    "code": "Rockfall",
+    "country": "06481",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.534/-72.7"
+  },
+  {
+    "place": "193",
+    "code": "Lakeside",
+    "country": "06758",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Litchfield",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.675/-73.242"
+  },
+  {
+    "place": "194",
+    "code": "Riverside",
+    "country": "06878",
+    "admin1": "United States",
+    "admin2": "Connecticut",
+    "admin3": "Fairfield",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   41.038/-73.581"
+  },
+  {
+    "place": "195",
+    "code": "Avenel",
+    "country": "07001",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Middlesex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.583/-74.279"
+  },
+  {
+    "place": "196",
+    "code": "Cranford",
+    "country": "07016",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Union",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.655/-74.306"
+  },
+  {
+    "place": "197",
+    "code": "Orange",
+    "country": "07050",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Essex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.769/-74.236"
+  },
+  {
+    "place": "198",
+    "code": "Orange",
+    "country": "07051",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Essex",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.792/-74.245"
+  },
+  {
+    "place": "199",
+    "code": "Clark",
+    "country": "07066",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Union",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.62/-74.311"
+  },
+  {
+    "place": "200",
+    "code": "Springfield",
+    "country": "07081",
+    "admin1": "United States",
+    "admin2": "New Jersey",
+    "admin3": "Union",
+    "": ""
+  },
+  {
+    "place": "",
+    "code": "   40.701/-74.323"
+  }
+]
